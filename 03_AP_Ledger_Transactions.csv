@@ -1,0 +1,299 @@
+Txn_ID,Date,Vendor_Name,Vendor_ID,Amount,Approval_Limit,Posting_User,GL_Account,Description
+TXN00001,2026-01-01,Nandi Office Mart,V1004,17499.1,50000,AP_CLERK2,550200 - Office Supplies,Stationery & consumables - Inv 1004/40863
+TXN00002,2026-01-01,Brightline IT Services LLP,V1005,68608.8,200000,AP_SENIOR1,560100 - IT Services,AMC - servers & laptops - Inv 1005/40130
+TXN00003,2026-01-01,Prakash & Associates,V1009,18328.99,50000,AP_CLERK2,530300 - Professional & Consulting Fees,Statutory compliance support - Inv 1009/40420
+TXN00004,2026-01-01,Cauvery Facility Services,V1010,25430.86,50000,AP_CLERK2,520200 - Repairs & Maintenance,Housekeeping services - Inv 1010/40452
+TXN00005,2026-01-01,Tejas Print House,V1018,6217.35,50000,AP_CLERK1,550200 - Office Supplies,Printing - Inv 1018/40169
+TXN00006,2026-01-02,Deccan Freight Carriers,V1003,24744.39,50000,AP_CLERK1,540100 - Freight & Logistics,Inbound freight - Inv 1003/40655
+TXN00007,2026-01-02,Coastal Lubricants,V1017,10536.77,50000,AP_CLERK1,510100 - Raw Materials,Lubricants & oils - Inv 1017/40103
+TXN00008,2026-01-02,Tejas Print House,V1018,3507.13,50000,AP_CLERK1,550200 - Office Supplies,Printing - Inv 1018/40221
+TXN00009,2026-01-05,Sharma Steel Suppliers Pvt Ltd,V1001,171685.94,200000,AP_SENIOR2,510100 - Raw Materials,Steel coils supply - Inv 1001/40621
+TXN00010,2026-01-05,Malabar Chemicals Ltd,V1008,44020.65,50000,AP_CLERK2,510100 - Raw Materials,Industrial solvents - Inv 1008/40167
+TXN00011,2026-01-05,Malabar Chemicals Ltd,V1008,154362.84,200000,AP_SENIOR2,510100 - Raw Materials,Industrial solvents - Inv 1008/40829
+TXN00012,2026-01-05,Prakash & Associates,V1009,77618.32,200000,AP_SENIOR1,530300 - Professional & Consulting Fees,Statutory compliance support - Inv 1009/40610
+TXN00013,2026-01-05,Cauvery Facility Services,V1010,46487.74,50000,AP_CLERK1,520200 - Repairs & Maintenance,Housekeeping services - Inv 1010/41054
+TXN00014,2026-01-05,Apex Safety Equipments,V1014,15463.26,50000,AP_CLERK1,520200 - Repairs & Maintenance,Safety gear - Inv 1014/40557
+TXN00015,2026-01-05,Indus Tower Rentals,V1016,85000.0,200000,AP_SENIOR1,570100 - Rent,Warehouse rent - Jan 2026
+TXN00016,2026-01-06,Lakshmi Electricals,V1006,34098.71,50000,AP_CLERK1,520200 - Repairs & Maintenance,Electrical repairs - Inv 1006/40584
+TXN00017,2026-01-06,Lakshmi Electricals,V1006,38694.67,50000,AP_CLERK1,520200 - Repairs & Maintenance,Electrical repairs - Inv 1006/40635
+TXN00018,2026-01-06,Malabar Chemicals Ltd,V1008,52394.43,200000,AP_SENIOR2,510100 - Raw Materials,Industrial solvents - Inv 1008/40576
+TXN00019,2026-01-06,Green Leaf Canteen Services,V1013,33348.68,50000,AP_CLERK2,580100 - Staff Welfare,Canteen services - Inv 1013/40590
+TXN00020,2026-01-06,Vertex Business Consulting,V1015,47065.57,50000,AP_CLERK1,530300 - Professional & Consulting Fees,Process advisory - Inv 1015/40999
+TXN00021,2026-01-07,Cauvery Facility Services,V1010,35178.17,50000,AP_CLERK2,520200 - Repairs & Maintenance,Housekeeping services - Inv 1010/40856
+TXN00022,2026-01-08,Deccan Freight Carriers,V1003,36030.56,50000,AP_CLERK2,540100 - Freight & Logistics,Inbound freight - Inv 1003/40619
+TXN00023,2026-01-08,Brightline IT Services LLP,V1005,101672.25,200000,AP_SENIOR2,560100 - IT Services,AMC - servers & laptops - Inv 1005/41072
+TXN00024,2026-01-08,Swift Courier Express,V1012,5671.3,50000,AP_CLERK1,540100 - Freight & Logistics,Courier charges - Inv 1012/40022
+TXN00025,2026-01-09,Deccan Freight Carriers,V1003,27657.87,50000,AP_CLERK1,540100 - Freight & Logistics,Inbound freight - Inv 1003/40759
+TXN00026,2026-01-09,Swift Courier Express,V1012,4158.06,50000,AP_CLERK1,540100 - Freight & Logistics,Courier charges - Inv 1012/40203
+TXN00027,2026-01-09,Green Leaf Canteen Services,V1013,23508.89,50000,AP_CLERK1,580100 - Staff Welfare,Canteen services - Inv 1013/41059
+TXN00028,2026-01-09,Coastal Lubricants,V1017,16701.83,50000,AP_CLERK2,510100 - Raw Materials,Lubricants & oils - Inv 1017/40330
+TXN00029,2026-01-12,Brightline IT Services LLP,V1005,44686.72,50000,AP_CLERK1,560100 - IT Services,AMC - servers & laptops - Inv 1005/40245
+TXN00030,2026-01-12,Hosur Auto Components,V1011,163284.83,200000,AP_SENIOR2,510100 - Raw Materials,Machined components - Inv 1011/40058
+TXN00031,2026-01-12,Tejas Print House,V1018,2749.63,50000,AP_CLERK2,550200 - Office Supplies,Printing - Inv 1018/40248
+TXN00032,2026-01-13,Deccan Freight Carriers,V1003,34008.21,50000,AP_CLERK1,540100 - Freight & Logistics,Inbound freight - Inv 1003/40140
+TXN00033,2026-01-13,Malabar Chemicals Ltd,V1008,86420.5,200000,AP_SENIOR1,510100 - Raw Materials,Industrial solvents - Inv 1008/40655
+TXN00034,2026-01-14,Sharma Steel Suppliers Pvt Ltd,V1001,22625.26,50000,AP_CLERK2,510100 - Raw Materials,Steel coils supply - Inv 1001/40488
+TXN00035,2026-01-14,Lakshmi Electricals,V1006,11875.01,50000,AP_CLERK1,520200 - Repairs & Maintenance,Electrical repairs - Inv 1006/40783
+TXN00036,2026-01-14,Cauvery Facility Services,V1010,35749.21,50000,AP_CLERK1,520200 - Repairs & Maintenance,Housekeeping services - Inv 1010/41030
+TXN00037,2026-01-14,Hosur Auto Components,V1011,156719.53,200000,AP_SENIOR2,510100 - Raw Materials,Machined components - Inv 1011/41089
+TXN00038,2026-01-14,Apex Safety Equipments,V1014,30869.86,50000,AP_CLERK1,520200 - Repairs & Maintenance,Safety gear - Inv 1014/40962
+TXN00039,2026-01-14,Vertex Business Consulting,V1015,64779.49,200000,AP_SENIOR1,530300 - Professional & Consulting Fees,Process advisory - Inv 1015/40284
+TXN00040,2026-01-15,Shree Ganesh Traders,V1007,31897.15,50000,AP_CLERK2,510100 - Raw Materials,Fasteners & hardware - Inv 1007/40778
+TXN00041,2026-01-15,Prakash & Associates,V1009,40188.57,50000,AP_CLERK2,530300 - Professional & Consulting Fees,Statutory compliance support - Inv 1009/40541
+TXN00042,2026-01-15,Cauvery Facility Services,V1010,19099.19,50000,AP_CLERK1,520200 - Repairs & Maintenance,Housekeeping services - Inv 1010/40133
+TXN00043,2026-01-15,Vertex Business Consulting,V1015,88985.09,200000,AP_SENIOR2,530300 - Professional & Consulting Fees,Process advisory - Inv 1015/40026
+TXN00044,2026-01-15,Tejas Print House,V1018,1708.1,50000,AP_CLERK2,550200 - Office Supplies,Printing - Inv 1018/40691
+TXN00045,2026-01-16,Malabar Chemicals Ltd,V1008,32651.61,50000,AP_CLERK1,510100 - Raw Materials,Industrial solvents - Inv 1008/40004
+TXN00046,2026-01-16,Prakash & Associates,V1009,39172.84,50000,AP_CLERK2,530300 - Professional & Consulting Fees,Statutory compliance support - Inv 1009/40675
+TXN00047,2026-01-16,Cauvery Facility Services,V1010,46667.63,50000,AP_CLERK2,520200 - Repairs & Maintenance,Housekeeping services - Inv 1010/40989
+TXN00048,2026-01-16,Hosur Auto Components,V1011,122631.32,200000,AP_SENIOR1,510100 - Raw Materials,Machined components - Inv 1011/40822
+TXN00049,2026-01-16,Apex Safety Equipments,V1014,23313.11,50000,AP_CLERK1,520200 - Repairs & Maintenance,Safety gear - Inv 1014/40843
+TXN00050,2026-01-19,Sharma Steel Suppliers Pvt Ltd,V1001,90617.11,200000,AP_SENIOR1,510100 - Raw Materials,Steel coils supply - Inv 1001/40289
+TXN00051,2026-01-19,Nandi Office Mart,V1004,15886.4,50000,AP_CLERK2,550200 - Office Supplies,Stationery & consumables - Inv 1004/40959
+TXN00052,2026-01-19,Cauvery Facility Services,V1010,31607.92,50000,AP_CLERK1,520200 - Repairs & Maintenance,Housekeeping services - Inv 1010/40775
+TXN00053,2026-01-19,Apex Safety Equipments,V1014,34306.81,50000,AP_CLERK1,520200 - Repairs & Maintenance,Safety gear - Inv 1014/40996
+TXN00054,2026-01-20,Sharma Steel Suppliers Pvt Ltd,V1001,162288.87,200000,AP_SENIOR1,510100 - Raw Materials,Steel coils supply - Inv 1001/40503
+TXN00055,2026-01-20,Prakash & Associates,V1009,26939.84,50000,AP_CLERK2,530300 - Professional & Consulting Fees,Statutory compliance support - Inv 1009/40375
+TXN00056,2026-01-20,Swift Courier Express,V1012,4030.12,50000,AP_CLERK2,540100 - Freight & Logistics,Courier charges - Inv 1012/40846
+TXN00057,2026-01-20,Green Leaf Canteen Services,V1013,40494.94,50000,AP_CLERK2,580100 - Staff Welfare,Canteen services - Inv 1013/41108
+TXN00058,2026-01-20,Coastal Lubricants,V1017,23811.02,50000,AP_CLERK1,510100 - Raw Materials,Lubricants & oils - Inv 1017/40123
+TXN00059,2026-01-21,Deccan Freight Carriers,V1003,34987.07,50000,AP_CLERK1,540100 - Freight & Logistics,Inbound freight - Inv 1003/40086
+TXN00060,2026-01-21,Deccan Freight Carriers,V1003,13212.73,50000,AP_CLERK2,540100 - Freight & Logistics,Inbound freight - Inv 1003/40890
+TXN00061,2026-01-21,Brightline IT Services LLP,V1005,51010.84,200000,AP_SENIOR2,560100 - IT Services,AMC - servers & laptops - Inv 1005/40625
+TXN00062,2026-01-21,Lakshmi Electricals,V1006,25418.03,50000,AP_CLERK1,520200 - Repairs & Maintenance,Electrical repairs - Inv 1006/40634
+TXN00063,2026-01-22,Kaveri Packaging Solutions,V1002,36985.1,50000,AP_CLERK2,510100 - Raw Materials,Corrugated boxes - Inv 1002/40517
+TXN00064,2026-01-22,Nandi Office Mart,V1004,12912.84,50000,AP_CLERK1,550200 - Office Supplies,Stationery & consumables - Inv 1004/40648
+TXN00065,2026-01-22,Vertex Business Consulting,V1015,128957.55,200000,AP_SENIOR1,530300 - Professional & Consulting Fees,Process advisory - Inv 1015/40164
+TXN00066,2026-01-23,Kaveri Packaging Solutions,V1002,8184.38,50000,AP_CLERK1,510100 - Raw Materials,Corrugated boxes - Inv 1002/40344
+TXN00067,2026-01-23,Green Leaf Canteen Services,V1013,36613.46,50000,AP_CLERK2,580100 - Staff Welfare,Canteen services - Inv 1013/40441
+TXN00068,2026-01-24,Malabar Chemicals Ltd,V1008,142318.4,200000,AP_SENIOR2,510100 - Raw Materials,Industrial solvents - Inv 1008/40977
+TXN00069,2026-01-26,Shree Ganesh Traders,V1007,44640.33,50000,AP_CLERK1,510100 - Raw Materials,Fasteners & hardware - Inv 1007/40906
+TXN00070,2026-01-26,Cauvery Facility Services,V1010,34671.1,50000,AP_CLERK2,520200 - Repairs & Maintenance,Housekeeping services - Inv 1010/41120
+TXN00071,2026-01-27,Brightline IT Services LLP,V1005,138093.49,200000,AP_SENIOR1,560100 - IT Services,AMC - servers & laptops - Inv 1005/40804
+TXN00072,2026-01-27,Malabar Chemicals Ltd,V1008,85654.75,200000,AP_SENIOR1,510100 - Raw Materials,Industrial solvents - Inv 1008/41018
+TXN00073,2026-01-27,Cauvery Facility Services,V1010,18536.35,50000,AP_CLERK1,520200 - Repairs & Maintenance,Housekeeping services - Inv 1010/40484
+TXN00074,2026-01-27,Green Leaf Canteen Services,V1013,30325.69,50000,AP_CLERK2,580100 - Staff Welfare,Canteen services - Inv 1013/40496
+TXN00075,2026-01-27,Coastal Lubricants,V1017,27671.48,50000,AP_CLERK2,510100 - Raw Materials,Lubricants & oils - Inv 1017/40960
+TXN00076,2026-01-27,Tejas Print House,V1018,2238.58,50000,AP_CLERK1,550200 - Office Supplies,Printing - Inv 1018/40352
+TXN00077,2026-01-28,Nandi Office Mart,V1004,16147.17,50000,AP_CLERK2,550200 - Office Supplies,Stationery & consumables - Inv 1004/40314
+TXN00078,2026-01-28,Brightline IT Services LLP,V1005,39607.99,50000,AP_CLERK2,560100 - IT Services,AMC - servers & laptops - Inv 1005/40545
+TXN00079,2026-01-28,Green Leaf Canteen Services,V1013,44406.27,50000,AP_CLERK1,580100 - Staff Welfare,Canteen services - Inv 1013/40950
+TXN00080,2026-01-28,Vertex Business Consulting,V1015,134176.68,200000,AP_SENIOR2,530300 - Professional & Consulting Fees,Process advisory - Inv 1015/40896
+TXN00081,2026-01-28,Tejas Print House,V1018,1698.23,50000,AP_CLERK2,550200 - Office Supplies,Printing - Inv 1018/40349
+TXN00082,2026-01-29,Kaveri Packaging Solutions,V1002,38377.23,50000,AP_CLERK1,510100 - Raw Materials,Corrugated boxes - Inv 1002/40253
+TXN00083,2026-01-29,Brightline IT Services LLP,V1005,140349.3,200000,AP_SENIOR2,560100 - IT Services,AMC - servers & laptops - Inv 1005/40364
+TXN00084,2026-01-29,Hosur Auto Components,V1011,38963.87,50000,AP_CLERK2,510100 - Raw Materials,Machined components - Inv 1011/40112
+TXN00085,2026-01-30,Vertex Business Consulting,V1015,100000.0,200000,AP_SENIOR1,530300 - Professional & Consulting Fees,Consulting fees - Jan
+TXN00086,2026-01-30,Coastal Lubricants,V1017,16302.84,50000,AP_CLERK1,510100 - Raw Materials,Lubricants & oils - Inv 1017/40469
+TXN00087,2026-01-30,Coastal Lubricants,V1017,17046.66,50000,AP_CLERK2,510100 - Raw Materials,Lubricants & oils - Inv 1017/41081
+TXN00088,2026-02-02,Sharma Steel Suppliers Pvt Ltd,V1001,34031.39,50000,AP_CLERK1,510100 - Raw Materials,Steel coils supply - Inv 1001/40403
+TXN00089,2026-02-02,Lakshmi Electricals,V1006,35612.4,50000,AP_CLERK2,520200 - Repairs & Maintenance,Electrical repairs - Inv 1006/40365
+TXN00090,2026-02-02,Shree Ganesh Traders,V1007,23079.19,50000,AP_CLERK2,510100 - Raw Materials,Fasteners & hardware - Inv 1007/40445
+TXN00091,2026-02-02,Prakash & Associates,V1009,58218.52,200000,AP_SENIOR2,530300 - Professional & Consulting Fees,Statutory compliance support - Inv 1009/40836
+TXN00092,2026-02-03,Kaveri Packaging Solutions,V1002,57960.5,200000,AP_SENIOR1,510100 - Raw Materials,Corrugated boxes - Inv 1002/40254
+TXN00093,2026-02-03,Brightline IT Services LLP,V1005,118460.0,200000,AP_SENIOR1,560100 - IT Services,AMC - servers & laptops - Inv 1005/41340
+TXN00094,2026-02-03,Hosur Auto Components,V1011,40324.31,50000,AP_CLERK2,510100 - Raw Materials,Machined components - Inv 1011/40722
+TXN00095,2026-02-03,Coastal Lubricants,V1017,20939.25,50000,AP_CLERK1,510100 - Raw Materials,Lubricants & oils - Inv 1017/40839
+TXN00096,2026-02-03,Coastal Lubricants,V1017,14713.35,50000,AP_CLERK2,510100 - Raw Materials,Lubricants & oils - Inv 1017/41008
+TXN00097,2026-02-04,Prakash & Associates,V1009,32290.35,50000,AP_CLERK2,530300 - Professional & Consulting Fees,Statutory compliance support - Inv 1009/40717
+TXN00098,2026-02-04,Vertex Business Consulting,V1015,75588.51,200000,AP_SENIOR1,530300 - Professional & Consulting Fees,Process advisory - Inv 1015/40494
+TXN00099,2026-02-04,Vertex Business Consulting,V1015,132613.75,200000,AP_SENIOR2,530300 - Professional & Consulting Fees,Process advisory - Inv 1015/40937
+TXN00100,2026-02-04,Coastal Lubricants,V1017,7006.79,50000,AP_CLERK2,510100 - Raw Materials,Lubricants & oils - Inv 1017/40416
+TXN00101,2026-02-04,Coastal Lubricants,V1017,19516.56,50000,AP_CLERK2,510100 - Raw Materials,Lubricants & oils - Inv 1017/40727
+TXN00102,2026-02-04,Tejas Print House,V1018,10970.52,50000,AP_CLERK1,550200 - Office Supplies,Printing - Inv 1018/40864
+TXN00103,2026-02-04,Shri Ganesh Traders,V1019,46350.0,50000,AP_CLERK1,510100 - Raw Materials,Fasteners & hardware - Inv 1019/0007
+TXN00104,2026-02-05,Shree Ganesh Traders,V1007,44943.28,50000,AP_CLERK1,510100 - Raw Materials,Fasteners & hardware - Inv 1007/40154
+TXN00105,2026-02-05,Malabar Chemicals Ltd,V1008,86792.58,200000,AP_SENIOR1,510100 - Raw Materials,Industrial solvents - Inv 1008/40006
+TXN00106,2026-02-05,Cauvery Facility Services,V1010,41983.44,50000,AP_CLERK1,520200 - Repairs & Maintenance,Housekeeping services - Inv 1010/40128
+TXN00107,2026-02-05,Indus Tower Rentals,V1016,85000.0,200000,AP_SENIOR1,570100 - Rent,Warehouse rent - Feb 2026
+TXN00108,2026-02-05,Coastal Lubricants,V1017,28064.95,50000,AP_CLERK2,510100 - Raw Materials,Lubricants & oils - Inv 1017/40425
+TXN00109,2026-02-06,Brightline IT Services LLP,V1005,118460.0,200000,AP_SENIOR2,560100 - IT Services,AMC - servers & laptops - Inv 1005/41340
+TXN00110,2026-02-06,Tejas Print House,V1018,11051.45,50000,AP_CLERK1,550200 - Office Supplies,Printing - Inv 1018/40550
+TXN00111,2026-02-09,Lakshmi Electricals,V1006,18037.32,50000,AP_CLERK1,520200 - Repairs & Maintenance,Electrical repairs - Inv 1006/40232
+TXN00112,2026-02-09,Apex Safety Equipments,V1014,4017.05,50000,AP_CLERK1,520200 - Repairs & Maintenance,Safety gear - Inv 1014/40005
+TXN00113,2026-02-09,Vertex Business Consulting,V1015,78596.46,200000,AP_SENIOR2,530300 - Professional & Consulting Fees,Process advisory - Inv 1015/40462
+TXN00114,2026-02-10,Lakshmi Electricals,V1006,20103.63,50000,AP_CLERK1,520200 - Repairs & Maintenance,Electrical repairs - Inv 1006/40051
+TXN00115,2026-02-10,Shree Ganesh Traders,V1007,23280.98,50000,AP_CLERK1,510100 - Raw Materials,Fasteners & hardware - Inv 1007/40797
+TXN00116,2026-02-10,Malabar Chemicals Ltd,V1008,86240.5,200000,AP_SENIOR2,510100 - Raw Materials,Industrial solvents - Inv 1008/40655
+TXN00117,2026-02-10,Tejas Print House,V1018,16824.07,50000,AP_CLERK1,550200 - Office Supplies,Printing - Inv 1018/40572
+TXN00118,2026-02-10,Tejas Print House,V1018,2567.75,50000,AP_CLERK1,550200 - Office Supplies,Printing - Inv 1018/40613
+TXN00119,2026-02-11,Deccan Freight Carriers,V1003,33021.48,50000,AP_CLERK1,540100 - Freight & Logistics,Inbound freight - Inv 1003/40170
+TXN00120,2026-02-11,Shree Ganesh Traders,V1007,35296.59,50000,AP_CLERK2,510100 - Raw Materials,Fasteners & hardware - Inv 1007/40033
+TXN00121,2026-02-11,Cauvery Facility Services,V1010,46203.86,50000,AP_CLERK2,520200 - Repairs & Maintenance,Housekeeping services - Inv 1010/40040
+TXN00122,2026-02-11,Cauvery Facility Services,V1010,41180.38,50000,AP_CLERK1,520200 - Repairs & Maintenance,Housekeeping services - Inv 1010/40393
+TXN00123,2026-02-12,Deccan Freight Carriers,V1003,41981.05,50000,AP_CLERK2,540100 - Freight & Logistics,Inbound freight - Inv 1003/40228
+TXN00124,2026-02-12,Deccan Freight Carriers,V1003,28396.44,50000,AP_CLERK2,540100 - Freight & Logistics,Inbound freight - Inv 1003/40260
+TXN00125,2026-02-12,Deccan Freight Carriers,V1003,37555.36,50000,AP_CLERK1,540100 - Freight & Logistics,Inbound freight - Inv 1003/40482
+TXN00126,2026-02-12,Nandi Office Mart,V1004,1685.01,50000,AP_CLERK1,550200 - Office Supplies,Stationery & consumables - Inv 1004/40882
+TXN00127,2026-02-12,Malabar Chemicals Ltd,V1008,118571.05,200000,AP_SENIOR1,510100 - Raw Materials,Industrial solvents - Inv 1008/40695
+TXN00128,2026-02-12,Vertex Business Consulting,V1015,38523.17,50000,AP_CLERK2,530300 - Professional & Consulting Fees,Process advisory - Inv 1015/40536
+TXN00129,2026-02-12,Tejas Print House,V1018,2235.93,50000,AP_CLERK1,550200 - Office Supplies,Printing - Inv 1018/40983
+TXN00130,2026-02-13,Kaveri Packaging Solutions,V1002,54744.08,200000,AP_SENIOR1,510100 - Raw Materials,Corrugated boxes - Inv 1002/40357
+TXN00131,2026-02-13,Deccan Freight Carriers,V1003,28974.37,50000,AP_CLERK2,540100 - Freight & Logistics,Inbound freight - Inv 1003/40048
+TXN00132,2026-02-13,Nandi Office Mart,V1004,1620.18,50000,AP_CLERK1,550200 - Office Supplies,Stationery & consumables - Inv 1004/40003
+TXN00133,2026-02-13,Brightline IT Services LLP,V1005,141323.72,200000,AP_SENIOR2,560100 - IT Services,AMC - servers & laptops - Inv 1005/40295
+TXN00134,2026-02-13,Shree Ganesh Traders,V1007,8267.85,50000,AP_CLERK2,510100 - Raw Materials,Fasteners & hardware - Inv 1007/40645
+TXN00135,2026-02-13,Hosur Auto Components,V1011,153005.7,200000,AP_SENIOR2,510100 - Raw Materials,Machined components - Inv 1011/40369
+TXN00136,2026-02-13,Swift Courier Express,V1012,3748.67,50000,AP_CLERK1,540100 - Freight & Logistics,Courier charges - Inv 1012/41002
+TXN00137,2026-02-13,Green Leaf Canteen Services,V1013,18716.49,50000,AP_CLERK2,580100 - Staff Welfare,Canteen services - Inv 1013/40265
+TXN00138,2026-02-16,Malabar Chemicals Ltd,V1008,106219.45,200000,AP_SENIOR2,510100 - Raw Materials,Industrial solvents - Inv 1008/41066
+TXN00139,2026-02-16,Vertex Business Consulting,V1015,67477.65,200000,AP_SENIOR2,530300 - Professional & Consulting Fees,Process advisory - Inv 1015/40749
+TXN00140,2026-02-17,Deccan Freight Carriers,V1003,26043.01,50000,AP_CLERK2,540100 - Freight & Logistics,Inbound freight - Inv 1003/40294
+TXN00141,2026-02-17,Nandi Office Mart,V1004,16974.02,50000,AP_CLERK2,550200 - Office Supplies,Stationery & consumables - Inv 1004/40308
+TXN00142,2026-02-17,Brightline IT Services LLP,V1005,54434.42,200000,AP_SENIOR1,560100 - IT Services,AMC - servers & laptops - Inv 1005/40073
+TXN00143,2026-02-17,Lakshmi Electricals,V1006,21039.35,50000,AP_CLERK2,520200 - Repairs & Maintenance,Electrical repairs - Inv 1006/40684
+TXN00144,2026-02-17,Shree Ganesh Traders,V1007,34562.38,50000,AP_CLERK1,510100 - Raw Materials,Fasteners & hardware - Inv 1007/40323
+TXN00145,2026-02-17,Shree Ganesh Traders,V1007,49500.0,50000,AP_CLERK2,510100 - Raw Materials,Fasteners & hardware - Inv 1007/41871
+TXN00146,2026-02-17,Shree Ganesh Traders,V1007,49800.0,50000,AP_CLERK2,510100 - Raw Materials,Fasteners & hardware - Inv 1007/41872
+TXN00147,2026-02-17,Shree Ganesh Traders,V1007,48900.0,50000,AP_CLERK2,510100 - Raw Materials,Fasteners & hardware - Inv 1007/41873
+TXN00148,2026-02-17,Swift Courier Express,V1012,6251.76,50000,AP_CLERK1,540100 - Freight & Logistics,Courier charges - Inv 1012/41105
+TXN00149,2026-02-17,Vertex Business Consulting,V1015,30356.98,50000,AP_CLERK1,530300 - Professional & Consulting Fees,Process advisory - Inv 1015/40118
+TXN00150,2026-02-17,Vertex Business Consulting,V1015,37829.77,50000,AP_CLERK2,530300 - Professional & Consulting Fees,Process advisory - Inv 1015/40792
+TXN00151,2026-02-18,Nandi Office Mart,V1004,12652.73,50000,AP_CLERK1,550200 - Office Supplies,Stationery & consumables - Inv 1004/40108
+TXN00152,2026-02-18,Brightline IT Services LLP,V1005,76613.33,200000,AP_SENIOR2,560100 - IT Services,AMC - servers & laptops - Inv 1005/40669
+TXN00153,2026-02-18,Lakshmi Electricals,V1006,16696.7,50000,AP_CLERK1,520200 - Repairs & Maintenance,Electrical repairs - Inv 1006/40046
+TXN00154,2026-02-18,Hosur Auto Components,V1011,178822.23,200000,AP_SENIOR1,510100 - Raw Materials,Machined components - Inv 1011/40918
+TXN00155,2026-02-18,Vertex Business Consulting,V1015,113598.96,200000,AP_SENIOR1,530300 - Professional & Consulting Fees,Process advisory - Inv 1015/40873
+TXN00156,2026-02-19,Sharma Steel Suppliers Pvt Ltd,V1001,131823.05,200000,AP_SENIOR2,510100 - Raw Materials,Steel coils supply - Inv 1001/40731
+TXN00157,2026-02-19,Deccan Freight Carriers,V1003,30005.66,50000,AP_CLERK2,540100 - Freight & Logistics,Inbound freight - Inv 1003/40337
+TXN00158,2026-02-19,Shree Ganesh Traders,V1007,14304.54,50000,AP_CLERK2,510100 - Raw Materials,Fasteners & hardware - Inv 1007/40726
+TXN00159,2026-02-19,Hosur Auto Components,V1011,67362.52,200000,AP_SENIOR2,510100 - Raw Materials,Machined components - Inv 1011/40396
+TXN00160,2026-02-19,Hosur Auto Components,V1011,67541.94,200000,AP_SENIOR2,510100 - Raw Materials,Machined components - Inv 1011/40689
+TXN00161,2026-02-19,Vertex Business Consulting,V1015,58511.07,200000,AP_SENIOR2,530300 - Professional & Consulting Fees,Process advisory - Inv 1015/40531
+TXN00162,2026-02-19,Coastal Lubricants,V1017,16599.52,50000,AP_CLERK1,510100 - Raw Materials,Lubricants & oils - Inv 1017/40533
+TXN00163,2026-02-19,Tejas Print House,V1018,10100.16,50000,AP_CLERK2,550200 - Office Supplies,Printing - Inv 1018/40010
+TXN00164,2026-02-20,Nandi Office Mart,V1004,15861.69,50000,AP_CLERK1,550200 - Office Supplies,Stationery & consumables - Inv 1004/40748
+TXN00165,2026-02-20,Cauvery Facility Services,V1010,11240.31,50000,AP_CLERK1,520200 - Repairs & Maintenance,Housekeeping services - Inv 1010/40790
+TXN00166,2026-02-22,Brightline IT Services LLP,V1005,87650.0,200000,AP_SENIOR2,560100 - IT Services,AMC - urgent payment
+TXN00167,2026-02-23,Kaveri Packaging Solutions,V1002,58663.34,200000,AP_SENIOR2,510100 - Raw Materials,Corrugated boxes - Inv 1002/40736
+TXN00168,2026-02-23,Kaveri Packaging Solutions,V1002,24867.48,50000,AP_CLERK1,510100 - Raw Materials,Corrugated boxes - Inv 1002/41000
+TXN00169,2026-02-23,Prakash & Associates,V1009,83553.67,200000,AP_SENIOR1,530300 - Professional & Consulting Fees,Statutory compliance support - Inv 1009/41085
+TXN00170,2026-02-23,Vertex Business Consulting,V1015,117222.62,200000,AP_SENIOR1,530300 - Professional & Consulting Fees,Process advisory - Inv 1015/40696
+TXN00171,2026-02-24,Brightline IT Services LLP,V1005,39395.69,50000,AP_CLERK2,560100 - IT Services,AMC - servers & laptops - Inv 1005/40764
+TXN00172,2026-02-24,Malabar Chemicals Ltd,V1008,51310.95,200000,AP_SENIOR2,510100 - Raw Materials,Industrial solvents - Inv 1008/40277
+TXN00173,2026-02-24,Cauvery Facility Services,V1010,18644.36,50000,AP_CLERK2,520200 - Repairs & Maintenance,Housekeeping services - Inv 1010/40729
+TXN00174,2026-02-24,Cauvery Facility Services,V1010,26687.83,50000,AP_CLERK2,520200 - Repairs & Maintenance,Housekeeping services - Inv 1010/40815
+TXN00175,2026-02-24,Hosur Auto Components,V1011,132775.87,200000,AP_SENIOR2,510100 - Raw Materials,Machined components - Inv 1011/40432
+TXN00176,2026-02-24,Swift Courier Express,V1012,2993.89,50000,AP_CLERK1,540100 - Freight & Logistics,Courier charges - Inv 1012/40299
+TXN00177,2026-02-24,Green Leaf Canteen Services,V1013,29786.37,50000,AP_CLERK2,580100 - Staff Welfare,Canteen services - Inv 1013/40560
+TXN00178,2026-02-24,Apex Safety Equipments,V1014,25090.03,50000,AP_CLERK1,520200 - Repairs & Maintenance,Safety gear - Inv 1014/41039
+TXN00179,2026-02-24,Vertex Business Consulting,V1015,133975.92,200000,AP_SENIOR2,530300 - Professional & Consulting Fees,Process advisory - Inv 1015/41035
+TXN00180,2026-02-24,Coastal Lubricants,V1017,4203.4,50000,AP_CLERK1,510100 - Raw Materials,Lubricants & oils - Inv 1017/40306
+TXN00181,2026-02-25,Deccan Freight Carriers,V1003,6445.16,50000,AP_CLERK2,540100 - Freight & Logistics,Inbound freight - Inv 1003/40811
+TXN00182,2026-02-25,Malabar Chemicals Ltd,V1008,71851.37,200000,AP_SENIOR1,510100 - Raw Materials,Industrial solvents - Inv 1008/40698
+TXN00183,2026-02-25,Swift Courier Express,V1012,6503.98,50000,AP_CLERK1,540100 - Freight & Logistics,Courier charges - Inv 1012/40711
+TXN00184,2026-02-26,Kaveri Packaging Solutions,V1002,40207.84,50000,AP_CLERK2,510100 - Raw Materials,Corrugated boxes - Inv 1002/40269
+TXN00185,2026-02-26,Malabar Chemicals Ltd,V1008,133626.78,200000,AP_SENIOR2,510100 - Raw Materials,Industrial solvents - Inv 1008/40065
+TXN00186,2026-02-26,Prakash & Associates,V1009,30319.44,50000,AP_CLERK1,530300 - Professional & Consulting Fees,Statutory compliance support - Inv 1009/40275
+TXN00187,2026-02-26,Green Leaf Canteen Services,V1013,23299.97,50000,AP_CLERK1,580100 - Staff Welfare,Canteen services - Inv 1013/40067
+TXN00188,2026-02-26,Vertex Business Consulting,V1015,44667.3,50000,AP_CLERK1,530300 - Professional & Consulting Fees,Process advisory - Inv 1015/40521
+TXN00189,2026-02-27,Brightline IT Services LLP,V1005,31717.34,50000,AP_CLERK2,560100 - IT Services,AMC - servers & laptops - Inv 1005/41076
+TXN00190,2026-02-27,Lakshmi Electricals,V1006,4860.53,50000,AP_CLERK2,520200 - Repairs & Maintenance,Electrical repairs - Inv 1006/40596
+TXN00191,2026-02-27,Malabar Chemicals Ltd,V1008,81778.58,200000,AP_SENIOR1,510100 - Raw Materials,Industrial solvents - Inv 1008/41113
+TXN00192,2026-02-27,Cauvery Facility Services,V1010,20902.72,50000,AP_CLERK1,520200 - Repairs & Maintenance,Housekeeping services - Inv 1010/40456
+TXN00193,2026-02-27,Green Leaf Canteen Services,V1013,25428.3,50000,AP_CLERK1,580100 - Staff Welfare,Canteen services - Inv 1013/40681
+TXN00194,2026-02-27,Vertex Business Consulting,V1015,39686.58,50000,AP_CLERK1,530300 - Professional & Consulting Fees,Process advisory - Inv 1015/40859
+TXN00195,2026-02-27,Vertex Business Consulting,V1015,150000.0,200000,AP_SENIOR1,530300 - Professional & Consulting Fees,Consulting fees - Feb
+TXN00196,2026-02-27,Coastal Lubricants,V1017,12041.4,50000,AP_CLERK2,510100 - Raw Materials,Lubricants & oils - Inv 1017/40436
+TXN00197,2026-03-02,Kaveri Packaging Solutions,V1002,14564.81,50000,AP_CLERK1,510100 - Raw Materials,Corrugated boxes - Inv 1002/40955
+TXN00198,2026-03-02,Deccan Freight Carriers,V1003,41122.22,50000,AP_CLERK2,540100 - Freight & Logistics,Inbound freight - Inv 1003/40177
+TXN00199,2026-03-02,Deccan Freight Carriers,V1003,15635.24,50000,AP_CLERK1,540100 - Freight & Logistics,Inbound freight - Inv 1003/40475
+TXN00200,2026-03-02,Shree Ganesh Traders,V1007,7761.84,50000,AP_CLERK1,510100 - Raw Materials,Fasteners & hardware - Inv 1007/40549
+TXN00201,2026-03-02,Swift Courier Express,V1012,5988.45,50000,AP_CLERK2,540100 - Freight & Logistics,Courier charges - Inv 1012/40400
+TXN00202,2026-03-02,Swift Courier Express,V1012,4222.9,50000,AP_CLERK1,540100 - Freight & Logistics,Courier charges - Inv 1012/40431
+TXN00203,2026-03-02,Apex Safety Equipments,V1014,34892.21,50000,AP_CLERK1,520200 - Repairs & Maintenance,Safety gear - Inv 1014/40708
+TXN00204,2026-03-03,Nandi Office Mart,V1004,2218.29,50000,AP_CLERK1,550200 - Office Supplies,Stationery & consumables - Inv 1004/40209
+TXN00205,2026-03-03,Prakash & Associates,V1009,36131.72,50000,AP_CLERK2,530300 - Professional & Consulting Fees,Statutory compliance support - Inv 1009/40316
+TXN00206,2026-03-03,Hosur Auto Components,V1011,67238.13,200000,AP_SENIOR2,510100 - Raw Materials,Machined components - Inv 1011/40014
+TXN00207,2026-03-04,Brightline IT Services LLP,V1005,78051.16,200000,AP_SENIOR1,560100 - IT Services,AMC - servers & laptops - Inv 1005/40925
+TXN00208,2026-03-04,Malabar Chemicals Ltd,V1008,41536.78,50000,AP_CLERK1,510100 - Raw Materials,Industrial solvents - Inv 1008/40386
+TXN00209,2026-03-04,Swift Courier Express,V1012,4575.39,50000,AP_CLERK1,540100 - Freight & Logistics,Courier charges - Inv 1012/40703
+TXN00210,2026-03-04,Shri Ganesh Traders,V1019,47900.0,50000,AP_CLERK1,510100 - Raw Materials,Fasteners & hardware - Inv 1019/0011
+TXN00211,2026-03-05,Nandi Office Mart,V1004,2758.13,50000,AP_CLERK2,550200 - Office Supplies,Stationery & consumables - Inv 1004/40015
+TXN00212,2026-03-05,Nandi Office Mart,V1004,5185.06,50000,AP_CLERK1,550200 - Office Supplies,Stationery & consumables - Inv 1004/41051
+TXN00213,2026-03-05,Cauvery Facility Services,V1010,39478.16,50000,AP_CLERK2,520200 - Repairs & Maintenance,Housekeeping services - Inv 1010/41061
+TXN00214,2026-03-05,Indus Tower Rentals,V1016,85000.0,200000,AP_SENIOR1,570100 - Rent,Warehouse rent - Mar 2026
+TXN00215,2026-03-06,Nandi Office Mart,V1004,7586.12,50000,AP_CLERK2,550200 - Office Supplies,Stationery & consumables - Inv 1004/40044
+TXN00216,2026-03-06,Cauvery Facility Services,V1010,39967.2,50000,AP_CLERK2,520200 - Repairs & Maintenance,Housekeeping services - Inv 1010/41073
+TXN00217,2026-03-06,Hosur Auto Components,V1011,103062.97,200000,AP_SENIOR2,510100 - Raw Materials,Machined components - Inv 1011/40131
+TXN00218,2026-03-06,Apex Safety Equipments,V1014,31730.33,50000,AP_CLERK2,520200 - Repairs & Maintenance,Safety gear - Inv 1014/40077
+TXN00219,2026-03-06,Apex Safety Equipments,V1014,7078.26,50000,AP_CLERK1,520200 - Repairs & Maintenance,Safety gear - Inv 1014/40355
+TXN00220,2026-03-06,Apex Safety Equipments,V1014,8620.48,50000,AP_CLERK1,520200 - Repairs & Maintenance,Safety gear - Inv 1014/41078
+TXN00221,2026-03-06,Tejas Print House,V1018,7510.15,50000,AP_CLERK1,550200 - Office Supplies,Printing - Inv 1018/40032
+TXN00222,2026-03-09,Kaveri Packaging Solutions,V1002,26054.6,50000,AP_CLERK1,510100 - Raw Materials,Corrugated boxes - Inv 1002/40652
+TXN00223,2026-03-09,Shree Ganesh Traders,V1007,24996.46,50000,AP_CLERK2,510100 - Raw Materials,Fasteners & hardware - Inv 1007/40628
+TXN00224,2026-03-09,Cauvery Facility Services,V1010,25161.71,50000,AP_CLERK1,520200 - Repairs & Maintenance,Housekeeping services - Inv 1010/40160
+TXN00225,2026-03-09,Hosur Auto Components,V1011,199000.0,200000,AP_SENIOR2,510100 - Raw Materials,Machined components - Inv 1011/42210
+TXN00226,2026-03-10,Kaveri Packaging Solutions,V1002,24545.17,50000,AP_CLERK2,510100 - Raw Materials,Corrugated boxes - Inv 1002/40943
+TXN00227,2026-03-10,Deccan Freight Carriers,V1003,38922.38,50000,AP_CLERK2,540100 - Freight & Logistics,Inbound freight - Inv 1003/40975
+TXN00228,2026-03-10,Lakshmi Electricals,V1006,9477.57,50000,AP_CLERK2,520200 - Repairs & Maintenance,Electrical repairs - Inv 1006/41013
+TXN00229,2026-03-10,Shree Ganesh Traders,V1007,24552.07,50000,AP_CLERK1,510100 - Raw Materials,Fasteners & hardware - Inv 1007/40599
+TXN00230,2026-03-10,Hosur Auto Components,V1011,113825.96,200000,AP_SENIOR2,510100 - Raw Materials,Machined components - Inv 1011/40930
+TXN00231,2026-03-10,Hosur Auto Components,V1011,198500.0,200000,AP_SENIOR2,510100 - Raw Materials,Machined components - Inv 1011/42211
+TXN00232,2026-03-10,Green Leaf Canteen Services,V1013,42975.73,50000,AP_CLERK1,580100 - Staff Welfare,Canteen services - Inv 1013/40234
+TXN00233,2026-03-11,Malabar Chemicals Ltd,V1008,79604.4,200000,AP_SENIOR2,510100 - Raw Materials,Industrial solvents - Inv 1008/40901
+TXN00234,2026-03-12,Brightline IT Services LLP,V1005,118039.69,200000,AP_SENIOR2,560100 - IT Services,AMC - servers & laptops - Inv 1005/41091
+TXN00235,2026-03-12,Prakash & Associates,V1009,40392.09,50000,AP_CLERK2,530300 - Professional & Consulting Fees,Statutory compliance support - Inv 1009/40968
+TXN00236,2026-03-12,Cauvery Facility Services,V1010,31880.28,50000,AP_CLERK1,520200 - Repairs & Maintenance,Housekeeping services - Inv 1010/40639
+TXN00237,2026-03-12,Tejas Print House,V1018,8998.39,50000,AP_CLERK2,550200 - Office Supplies,Printing - Inv 1018/41098
+TXN00238,2026-03-12,Northstar Advisory Services,V1020,975000.0,1000000,FIN_MGR,530300 - Professional & Consulting Fees,Advisory services - advance
+TXN00239,2026-03-13,Malabar Chemicals Ltd,V1008,15502.34,50000,AP_CLERK1,510100 - Raw Materials,Industrial solvents - Inv 1008/40395
+TXN00240,2026-03-13,Green Leaf Canteen Services,V1013,25420.02,50000,AP_CLERK2,580100 - Staff Welfare,Canteen services - Inv 1013/40582
+TXN00241,2026-03-16,Nandi Office Mart,V1004,7141.8,50000,AP_CLERK2,550200 - Office Supplies,Stationery & consumables - Inv 1004/40362
+TXN00242,2026-03-16,Lakshmi Electricals,V1006,14497.76,50000,AP_CLERK2,520200 - Repairs & Maintenance,Electrical repairs - Inv 1006/40883
+TXN00243,2026-03-16,Malabar Chemicals Ltd,V1008,128123.67,200000,AP_SENIOR2,510100 - Raw Materials,Industrial solvents - Inv 1008/40193
+TXN00244,2026-03-16,Malabar Chemicals Ltd,V1008,96626.05,200000,AP_SENIOR1,510100 - Raw Materials,Industrial solvents - Inv 1008/40939
+TXN00245,2026-03-17,Deccan Freight Carriers,V1003,44750.64,50000,AP_CLERK2,540100 - Freight & Logistics,Inbound freight - Inv 1003/40765
+TXN00246,2026-03-17,Deccan Freight Carriers,V1003,15326.14,50000,AP_CLERK2,540100 - Freight & Logistics,Inbound freight - Inv 1003/40913
+TXN00247,2026-03-17,Prakash & Associates,V1009,71400.74,200000,AP_SENIOR2,530300 - Professional & Consulting Fees,Statutory compliance support - Inv 1009/40606
+TXN00248,2026-03-17,Cauvery Facility Services,V1010,29337.14,50000,AP_CLERK2,520200 - Repairs & Maintenance,Housekeeping services - Inv 1010/40899
+TXN00249,2026-03-17,Green Leaf Canteen Services,V1013,41456.89,50000,AP_CLERK1,580100 - Staff Welfare,Canteen services - Inv 1013/40567
+TXN00250,2026-03-18,Sharma Steel Suppliers Pvt Ltd,V1001,140203.22,200000,AP_SENIOR2,510100 - Raw Materials,Steel coils supply - Inv 1001/40012
+TXN00251,2026-03-18,Sharma Steel Suppliers Pvt Ltd,V1001,68745.3,50000,AP_CLERK1,510100 - Raw Materials,Steel coils supply - Inv 1001/42390
+TXN00252,2026-03-18,Brightline IT Services LLP,V1005,101567.99,200000,AP_SENIOR2,560100 - IT Services,AMC - servers & laptops - Inv 1005/40093
+TXN00253,2026-03-18,Prakash & Associates,V1009,27118.65,50000,AP_CLERK1,530300 - Professional & Consulting Fees,Statutory compliance support - Inv 1009/40348
+TXN00254,2026-03-18,Vertex Business Consulting,V1015,97391.76,200000,AP_SENIOR2,530300 - Professional & Consulting Fees,Process advisory - Inv 1015/40527
+TXN00255,2026-03-18,Vertex Business Consulting,V1015,62708.84,200000,AP_SENIOR1,530300 - Professional & Consulting Fees,Process advisory - Inv 1015/40774
+TXN00256,2026-03-18,Tejas Print House,V1018,4885.1,50000,AP_CLERK1,550200 - Office Supplies,Printing - Inv 1018/40147
+TXN00257,2026-03-19,Shree Ganesh Traders,V1007,9056.01,50000,AP_CLERK1,510100 - Raw Materials,Fasteners & hardware - Inv 1007/40199
+TXN00258,2026-03-19,Prakash & Associates,V1009,17869.29,50000,AP_CLERK2,530300 - Professional & Consulting Fees,Statutory compliance support - Inv 1009/40408
+TXN00259,2026-03-19,Swift Courier Express,V1012,6719.78,50000,AP_CLERK2,540100 - Freight & Logistics,Courier charges - Inv 1012/40411
+TXN00260,2026-03-19,Apex Safety Equipments,V1014,29314.59,50000,AP_CLERK1,520200 - Repairs & Maintenance,Safety gear - Inv 1014/40656
+TXN00261,2026-03-19,Vertex Business Consulting,V1015,38848.6,50000,AP_CLERK1,530300 - Professional & Consulting Fees,Process advisory - Inv 1015/40821
+TXN00262,2026-03-19,Tejas Print House,V1018,17380.15,50000,AP_CLERK2,550200 - Office Supplies,Printing - Inv 1018/40673
+TXN00263,2026-03-20,Malabar Chemicals Ltd,V1008,141423.92,200000,AP_SENIOR2,510100 - Raw Materials,Industrial solvents - Inv 1008/40215
+TXN00264,2026-03-20,Tejas Print House,V1018,4185.77,50000,AP_CLERK2,550200 - Office Supplies,Printing - Inv 1018/40876
+TXN00265,2026-03-23,Nandi Office Mart,V1004,5377.43,50000,AP_CLERK1,550200 - Office Supplies,Stationery & consumables - Inv 1004/40211
+TXN00266,2026-03-23,Malabar Chemicals Ltd,V1008,126802.64,200000,AP_SENIOR2,510100 - Raw Materials,Industrial solvents - Inv 1008/40769
+TXN00267,2026-03-24,Sharma Steel Suppliers Pvt Ltd,V1001,177575.96,200000,AP_SENIOR2,510100 - Raw Materials,Steel coils supply - Inv 1001/40237
+TXN00268,2026-03-24,Sharma Steel Suppliers Pvt Ltd,V1001,58635.67,200000,AP_SENIOR2,510100 - Raw Materials,Steel coils supply - Inv 1001/41099
+TXN00269,2026-03-24,Shree Ganesh Traders,V1007,33183.86,50000,AP_CLERK2,510100 - Raw Materials,Fasteners & hardware - Inv 1007/40071
+TXN00270,2026-03-24,Malabar Chemicals Ltd,V1008,80250.19,200000,AP_SENIOR1,510100 - Raw Materials,Industrial solvents - Inv 1008/41021
+TXN00271,2026-03-24,Swift Courier Express,V1012,5938.91,50000,AP_CLERK1,540100 - Freight & Logistics,Courier charges - Inv 1012/40663
+TXN00272,2026-03-25,Deccan Freight Carriers,V1003,19775.46,50000,AP_CLERK2,540100 - Freight & Logistics,Inbound freight - Inv 1003/40098
+TXN00273,2026-03-25,Deccan Freight Carriers,V1003,30352.74,50000,AP_CLERK1,540100 - Freight & Logistics,Inbound freight - Inv 1003/40592
+TXN00274,2026-03-25,Brightline IT Services LLP,V1005,74844.61,200000,AP_SENIOR1,560100 - IT Services,AMC - servers & laptops - Inv 1005/40214
+TXN00275,2026-03-25,Malabar Chemicals Ltd,V1008,107852.55,200000,AP_SENIOR2,510100 - Raw Materials,Industrial solvents - Inv 1008/41119
+TXN00276,2026-03-25,Prakash & Associates,V1009,81122.34,200000,AP_SENIOR2,530300 - Professional & Consulting Fees,Statutory compliance support - Inv 1009/40677
+TXN00277,2026-03-25,Prakash & Associates,V1009,65013.05,200000,AP_SENIOR1,530300 - Professional & Consulting Fees,Statutory compliance support - Inv 1009/41028
+TXN00278,2026-03-25,Apex Safety Equipments,V1014,10002.92,50000,AP_CLERK1,520200 - Repairs & Maintenance,Safety gear - Inv 1014/40510
+TXN00279,2026-03-26,Lakshmi Electricals,V1006,3099.0,50000,AP_CLERK1,520200 - Repairs & Maintenance,Electrical repairs - Inv 1006/40787
+TXN00280,2026-03-26,Shree Ganesh Traders,V1007,28187.06,50000,AP_CLERK1,510100 - Raw Materials,Fasteners & hardware - Inv 1007/40186
+TXN00281,2026-03-26,Green Leaf Canteen Services,V1013,42037.17,50000,AP_CLERK2,580100 - Staff Welfare,Canteen services - Inv 1013/40382
+TXN00282,2026-03-26,Tejas Print House,V1018,17199.61,50000,AP_CLERK1,550200 - Office Supplies,Printing - Inv 1018/40142
+TXN00283,2026-03-26,Tejas Print House,V1018,10641.23,50000,AP_CLERK2,550200 - Office Supplies,Printing - Inv 1018/40529
+TXN00284,2026-03-27,Shree Ganesh Traders,V1007,46738.5,50000,AP_CLERK1,510100 - Raw Materials,Fasteners & hardware - Inv 1007/41046
+TXN00285,2026-03-28,Green Leaf Canteen Services,V1013,44210.75,50000,AP_CLERK1,580100 - Staff Welfare,Canteen services - Inv 1013/42550
+TXN00286,2026-03-30,Sharma Steel Suppliers Pvt Ltd,V1001,61668.43,200000,AP_SENIOR2,510100 - Raw Materials,Steel coils supply - Inv 1001/40921
+TXN00287,2026-03-30,Deccan Freight Carriers,V1003,25080.4,50000,AP_CLERK1,540100 - Freight & Logistics,Inbound freight - Inv 1003/40180
+TXN00288,2026-03-30,Nandi Office Mart,V1004,15011.54,50000,AP_CLERK2,550200 - Office Supplies,Stationery & consumables - Inv 1004/40753
+TXN00289,2026-03-30,Brightline IT Services LLP,V1005,102923.06,200000,AP_SENIOR1,560100 - IT Services,AMC - servers & laptops - Inv 1005/40743
+TXN00290,2026-03-30,Cauvery Facility Services,V1010,26074.28,50000,AP_CLERK1,520200 - Repairs & Maintenance,Housekeeping services - Inv 1010/40243
+TXN00291,2026-03-30,Hosur Auto Components,V1011,126555.86,200000,AP_SENIOR2,510100 - Raw Materials,Machined components - Inv 1011/40982
+TXN00292,2026-03-31,Kaveri Packaging Solutions,V1002,57205.6,200000,AP_SENIOR2,510100 - Raw Materials,Corrugated boxes - Inv 1002/41123
+TXN00293,2026-03-31,Lakshmi Electricals,V1006,15202.74,50000,AP_CLERK1,520200 - Repairs & Maintenance,Electrical repairs - Inv 1006/40852
+TXN00294,2026-03-31,Malabar Chemicals Ltd,V1008,159604.22,200000,AP_SENIOR2,510100 - Raw Materials,Industrial solvents - Inv 1008/40079
+TXN00295,2026-03-31,Prakash & Associates,V1009,235000.0,1000000,FIN_MGR,599999 - Suspense Account,Misc adjustment
+TXN00296,2026-03-31,Green Leaf Canteen Services,V1013,44222.96,50000,AP_CLERK2,580100 - Staff Welfare,Canteen services - Inv 1013/40820
+TXN00297,2026-03-31,Vertex Business Consulting,V1015,200000.0,1000000,FIN_MGR,530300 - Professional & Consulting Fees,Consulting fees - Mar
+TXN00298,2026-03-31,Coastal Lubricants,V1017,13406.26,50000,AP_CLERK2,510100 - Raw Materials,Lubricants & oils - Inv 1017/40871
